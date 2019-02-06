@@ -1,0 +1,24 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.muktamayee.myapplication.MainActivity">
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="4"
+        android:title="Edit" />
+    <item
+        android:id="@+id/Emergency_PhoneNumbers"
+
+        android:title="Emergency Helpline Numbers"
+        />
+    <item
+        android:id="@+id/Nearby_police"
+        android:title="Nearby Police Stations"/>
+
+    <item
+        android:id="@+id/Nearby_hos"
+        android:title="Nearby Hospitals "/>
+    <item
+        android:id="@+id/siren"
+        android:title="Police siren"/>
+</menu>

@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">RAKSHA</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="signup">Signup</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone Number</string>
+    <string name="address">Address</string>
+    <string name="login">Login</string>
+    <string name="set">Set Password</string>
+    <string name="next">Next</string>
+    <string name="emerg1">Emergency Number 1</string>
+    <string name="emerg2">Emergency Number 2</string>
+    <string name="emerg3">Emergency Number 3</string>
+    <string name="emerg4">Emergency Number 4</string>
+    <string name="emerg5">Emergency Number 5</string>
+    <string name="name">Name</string>
+    <string name="register">Register</string>
+    <string name="title_activity_main">main</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="help1">All in one Emergency Number</string>
+    <string name="help2">Ambulance</string>
+    <string name="help3">Police</string>
+    <string name="help4">Women Helpline Number</string>
+    <string name="title_activity_about_us">about_us</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+</resources>

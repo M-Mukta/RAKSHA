@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+xmlns:tools="http://schemas.android.com/tools"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+tools:context=".MainActivity">
+
+
+    <Button
+        android:id="@+id/help"
+        android:layout_width="215dp"
+        android:layout_height="222dp"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:background="@drawable/button"
+        app:srcCompat="@drawable/button"
+        android:text="HELP !"
+        android:textColor="#ffffff"
+        android:textSize="40sp" />
+</RelativeLayout>
